@@ -1,0 +1,20 @@
+{
+  "name": "ui-controls",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^12.2.0",
+    "@angular/core": "^12.2.0",
+    "@angular/cdk": "^12.0.2",
+    "bulma": "^0.9.2"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "main": "bundles/ui-controls.umd.js",
+  "module": "fesm2015/ui-controls.js",
+  "es2015": "fesm2015/ui-controls.js",
+  "esm2015": "esm2015/ui-controls.js",
+  "fesm2015": "fesm2015/ui-controls.js",
+  "typings": "ui-controls.d.ts",
+  "sideEffects": false
+}
